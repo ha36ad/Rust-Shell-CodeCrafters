@@ -1,6 +1,6 @@
 # Rust Shell (rsh)
 
-A feature-rich command-line shell implementation written in Rust, providing a modern alternative to traditional shells with advanced tab completion, pipeline support, and file redirection capabilities. This was for the CodeCrafters Build your Own Shell Challenge.
+A feature-rich command-line shell implementation written in Rust. This was for the CodeCrafters Build your Own Shell Challenge.
 
 ## Features
 
