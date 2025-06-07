@@ -1,0 +1,13 @@
+[package]
+name = "codecrafters-shell-rust"
+version = "0.1.0"
+authors = ["Codecrafters <hello@codecrafters.io>, ha36ad <hammad.khan1130@gmail.com>"]
+edition = "2021"
+rust-version = "1.80"
+
+[dependencies]
+anyhow = "1.0.68"                                # error handling
+bytes = "1.3.0"                                  # helps manage buffers
+rustyline = "16.0.0"
+shlex = "1.3.0"
+thiserror = "1.0.38"                             # error handling
